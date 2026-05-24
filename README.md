@@ -1,3 +1,4 @@
+
 # 7.-Design-and-Simulation-of-single-phase-inverter
 ## AIM
 To design, simulate and analyse a single phase Inverter using MATLAB Simulink.
@@ -35,5 +36,11 @@ shown below
 Design a Single Phase Inverter having the DC input supply of 100V and output resistance 1 ohm using pulse generator.
 
 ## Simulation
+<img width="1918" height="1198" alt="Screenshot 2026-05-21 202331" src="https://github.com/user-attachments/assets/42f689f2-4b4a-4066-b004-d3d1b3370519" />
+
 ## Output
+<img width="1918" height="1198" alt="Screenshot 2026-05-21 202323" src="https://github.com/user-attachments/assets/9a915a77-095b-4424-bf0d-71b5e5da4bb3" />
+
+
 ## Result
+The simulation is done successfully
